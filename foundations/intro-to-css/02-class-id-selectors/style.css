@@ -1,0 +1,15 @@
+.pink-bg{
+    background-color: rgb(247, 160, 160);
+    font-family: Verdana, "DejaVu Sans", sans-serif
+}
+#blue-text{
+    color: rgb(0, 79, 197);
+    font-size: 36px;
+}
+.font-24{
+    font-size: 24px;
+}
+#green-bg{
+    background-color: hsl(113, 100%, 85%);
+    font-weight: bold;
+}
